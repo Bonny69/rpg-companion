@@ -8,4 +8,4 @@ A software that has some utilities related to RPGs.
 - Loads a previous time from a file.
 ## Personal "DJ"
 - Allows to link some playlists on youtube to play them as ambient music choosing the mood with some buttons.
-- Add a series of sound with a youtube link that get looped with a toggle switch.
+- Add a series of sound with a youtube link. These can be looped with a toggle switch or played once with a button.
